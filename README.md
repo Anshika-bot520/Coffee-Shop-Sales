@@ -1,1 +1,2 @@
-# Coffee-Shop-Sales
+# Coffee-Shop-Sales  
+An interactive Coffee shop Sales Dashboard built in Microsoft Excel to analyze sales performance, customer footfall, product trends, and store wise insights. The dashboard provides dynamic filtering by months and day, enabling users to explore sales trends, peak business hours, top-selling products, category-wise sales distribution, order size analysis, and store performer. This project demonstrate my excel, data visualization, dashboard design, and business analytics skills. 
